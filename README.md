@@ -4,7 +4,6 @@
 #### Older Builds & Types
 - Stable: [0.0.0.6](http://www.mediafire.com/file/w60ic8115ali9lr/BAKU%2521_0.0.0.6_Build.rar/file)
 - Beta: (Unable to find)
-- Experimental: (Unable to find)
 -----------------------------------------------------------------------------------------------------
 ## Changelog, Issues & More
 - Nothing new
